@@ -1,0 +1,27 @@
+.active {
+  height: 200px;
+  width: 400px;
+  background-color: aqua;
+  border: 1px solid black;
+  border-radius: 10px;
+  overflow: hidden;
+  transition: all 1s;
+}
+
+.inactive {
+  height: 450px;
+  width: 900px;
+  background-color: cyan;
+  border: 1px solid black;
+  border-radius: 10px;
+  overflow: hidden;
+  transition: all 1s;
+}
+
+.black {
+  background-color: red;
+}
+
+.white {
+  background-color: white;
+}
